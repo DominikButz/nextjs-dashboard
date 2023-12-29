@@ -1,5 +1,46 @@
 {
-  "node": {},
+  "node": {
+    "fcaf1e1a51cffec5cc1eff7912bb223b2de0f946": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%2C%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "8bf941f43ea7af66d293e6252890329059e8b06f": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%2C%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "bc0a7903f880f3f0e1ce9022890269c01f9f766b": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%2C%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "c17b22ca57c36662ef000675875d9a079a67eef9": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%2C%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "ce11c14bce191271331c527690b1f094526b9c9e": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%2C%5B%22%2FUsers%2FDominik%2FDocuments%2FProgrammieren%2FTutorials%2FNextJS%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "blZQF9pzwAOLW6yYRbkTycDoNJpQvPwUU+xoB+3pwT4="
+  "encryptionKey": "odiPtMGMilqGJwNSCqL/C6I7+9HPSjF2yg+RyodrwlA="
 }
